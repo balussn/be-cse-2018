@@ -1,6 +1,6 @@
 * <<<PE501>>> PARALLEL ALGORITHMS
 :properties:
-:author: Mr. H. Shahul Hamead and Ms. M. Saritha
+:author: Mr. H. Shahul   Hamead and Ms. M. Saritha
 :date: 
 :end:
 
@@ -69,5 +69,5 @@ After the completion of this course, students will be able to:
    Parallelism, Scalability, Programmability'', Tata
    McGraw-Hill, 2001.
 5. F. Thomson Leighton, ``Introduction to Parallel Algorithms and
-   Architectures'', Morgan Kaufmann Publishers, 1992.
+   Architectures'', Morgan Kaufmann  Publishers, 1992.
  
